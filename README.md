@@ -1,4 +1,4 @@
-## 📡 Incoming transmission:
+## 📡 Incoming transmission from https://h4k0n.ipv64.net:
 
 00110100 01000101 00100000 00110110 00110101 00100000 00110111 00110110
 00100000 00110110 00110101 00100000 00110111 00110010 00100000 00110001
@@ -18,7 +18,7 @@ Decoding transmission . . .
 
 Warning: Corruption detected, cannot be decoded automatically.
 
-Note: The probability that the transmission has been tampered with is high; Check integrity and be cautious.
+Note: The probability that the transmission has been tampered with is high, check integrity and be cautious.
 
 
 
