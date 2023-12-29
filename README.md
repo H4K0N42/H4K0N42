@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=black&style=for-the-badge" height="40" alt="powershell logo"/><img width="1"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"/><img width="1"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge" height="40" alt="lua logo"/><img width="1"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="40" alt="markdown logo"/><img width="1"/>
+  <!--<img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="40" alt="markdown logo"/><img width="1"/>-->
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge" height="40" alt="raspberrypi logo"/>
 </div>
 
@@ -41,3 +41,6 @@
 >Warning: Corruption detected, cannot be decoded automatically.
 >
 >Note: The probability that the transmission has been tampered with is high, check integrity and be cautious.
+
+#
+<div align="center"><h4>Visitor statistics</h4><img src="https://moe-counter.glitch.me/get/@:H4K0N42"/></div>
