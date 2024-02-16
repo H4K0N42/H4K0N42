@@ -43,4 +43,4 @@
 >Note: The probability that the transmission has been tampered with is high, check integrity and be cautious.
 
 #
-<div align="center"><h4>Visitor statistics</h4><img src="https://moe-counter.glitch.me/get/@:H4K0N42"/></div>
+<!-- <div align="center"><h4>Visitor statistics</h4><img src="https://moe-counter.glitch.me/get/@:H4K0N42"/></div> -->
