@@ -29,16 +29,6 @@
 00100000 00110110 01000110 00100000 00110111 00110101 00100000 00110010
 00110000 00100000 00110111 00110101 00100000 00110111 00110000
 ```
->Decoding transmission . . .
 
-```
-4E 65 76 65 72 ?? 00 00
-00 00 00 00 00 00 00 00 ^C
-```
-
->Warning: Corruption detected, cannot be decoded automatically.
->
->Note: The probability that the transmission has been tampered with is high, check integrity and be cautious.
-
-#
+<!-- # -->
 <!-- <div align="center"><h4>Visitor statistics</h4><img src="https://moe-counter.glitch.me/get/@:H4K0N42"/></div> -->
