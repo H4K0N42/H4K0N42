@@ -14,9 +14,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H4K0N42/H4K0N42/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/H4K0N42/H4K0N42/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/H4K0N42/H4K0N42/output/snake.svg" />
 </picture>
 
 ## 📡 Incoming transmission from [www.h4k0n.dev](https://www.h4k0n.dev):
