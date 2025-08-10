@@ -1,18 +1,5 @@
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="40" alt="windows8 logo"/><img width="1"/>
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=black&style=for-the-badge" height="40" alt="fedora logo"/><img width="1"/>
-  <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge" height="40" alt="debian logo"/><img width="1"/>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"/><img width="1"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"/><img width="1"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=black&style=for-the-badge" height="40" alt="powershell logo"/><img width="1"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"/><img width="1"/>
-  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge" height="40" alt="raspberrypi logo"/>
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H4K0N42/H4K0N42/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/H4K0N42/H4K0N42/output/snake.svg" />
@@ -33,5 +20,60 @@
 00110000 00100000 00110111 00110101 00100000 00110111 00110000
 ```
 
+
+## 🔒 My [PGP Public Key](https://raw.githubusercontent.com/H4K0N42/H4K0N42/refs/heads/main/0xBC202CFC6357FFE9_public.asc):
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+=m6rv
+-----END PGP PUBLIC KEY BLOCK-----
+```
 <!-- # -->
 <!-- <div align="center"><h4>Visitor statistics</h4><img src="https://moe-counter.glitch.me/get/@:H4K0N42"/></div> -->
